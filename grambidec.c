@@ -9,8 +9,8 @@ grambilib~ 2016
 
 
 #include <string.h>
-#include "math.h"
-#include "m_pd.h"
+#include <math.h>
+#include <m_pd.h>
 #include <stdio.h>
 
 #define kPI    3.14159265358979323846
