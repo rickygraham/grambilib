@@ -1,5 +1,9 @@
 grambilib~ v1.2
 
+General updates:
+
+Max/MSP support (port). 
+
 [grambipan~] updates:
 
 - 7th order (2d) FuMa support
