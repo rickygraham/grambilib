@@ -2,7 +2,7 @@
 
 **General updates:**
 
-Max/MSP support (port). 
+Max/MSP support (port from Pd). 
 
 ### `[grambipan~]` updates:
 
