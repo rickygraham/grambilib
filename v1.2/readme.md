@@ -1,19 +1,19 @@
 #grambilib~ v1.2
 
-#General updates:
+**General updates:**
 
 Max/MSP support (port). 
 
-*[grambipan~] updates:*
+### `[grambipan~]` updates:
 
 - 7th order (2d) FuMa support
 
-*[grambiman~] updates:*
+### `[grambiman~]` updates:
 
 - rotiltum support (3 axes support for b-format rotations using 3d controller, such as the HTC Vive)
-* ordering must be rotation, tilt, and tumble.
+ ordering must be rotation, tilt, and tumble.
 
-*[grambidec~] updates:*
+### `[grambidec~]` updates:
 
 - hexadecagonal decoder
 
