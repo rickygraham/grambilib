@@ -4,7 +4,7 @@
 
 Max/MSP support (port). 
 
-#[grambipan~] updates:#
+*[grambipan~] updates:*
 
 - 7th order (2d) FuMa support
 
